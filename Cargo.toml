@@ -1,0 +1,38 @@
+[workspace]
+
+members = [
+    "tutorial",
+    "version-helper",
+    "audio/audiofx",
+    "audio/claxon",
+    "audio/csound",
+    "audio/lewton",
+    "generic/file",
+    "generic/sodium",
+    "generic/threadshare",
+    "net/reqwest",
+    "net/rusoto",
+    "utils/fallbackswitch",
+    "utils/togglerecord",
+    "video/cdg",
+    "video/closedcaption",
+    "video/dav1d",
+    "video/flavors",
+    "video/gif",
+    "video/rav1e",
+    "video/rspng",
+    "video/hsv",
+    "video/webp",
+    "text/wrap",
+    "text/json",
+    "text/regex",
+]
+
+[profile.release]
+lto = true
+opt-level = 3
+debug = true
+panic = 'unwind'
+
+[profile.dev]
+opt-level = 1

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/audio/audiofx/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/audiofx/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/claxon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/claxon/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/csound/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/csound/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/csound/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/lewton/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/audio/lewton/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/file/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/sodium/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/sodium/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/sodium/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/threadshare/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/threadshare/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/threadshare/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/net/reqwest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/net/reqwest/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/net/rusoto/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/text/json/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/text/json/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/text/regex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/text/regex/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/text/wrap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/text/wrap/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tutorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/fallbackswitch/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/fallbackswitch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/fallbackswitch/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/togglerecord/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/togglerecord/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils/togglerecord/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/version-helper/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/cdg/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/cdg/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/video/closedcaption/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/closedcaption/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/video/dav1d/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/flavors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/gif/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/gif/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/gif/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/video/hsv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/rav1e/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/rav1e/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/video/rspng/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/rspng/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/rspng/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/video/webp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video/webp/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
